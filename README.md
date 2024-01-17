@@ -32,6 +32,7 @@ nodemon
 ## File Structure
 
 - /setups/config :- database.js , passport.js
+- /setups/lib :- passwordUtils.js
 - /bin/www :- serving specific code
 - /views :- all ejs files
 - app.js : all combined
